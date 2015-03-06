@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modlister",
+  "name": "Mod Lister",
+  "description": "Adapted from Vazkii's Mod Lister",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Viper-7"],
+  "credits": "Viper-7, Vazkii. Plus the Forge and FML guys, for making this possible.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
